@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1uJmWYuDnOXFJHl1SGbIppyyMHM9K-l8j?usp=sha
 
 ## Running the Models
 - Run the first 2 blocks in "ResNet" section
-- Run the first 4 clocks in "Alexnet" section
+- Run the first 4 blocks in "Alexnet" section
 - Run the only block in "Load Models" section
 At this point you have all 4 models (Resnet, VGG16, Inception-V3, Alexnet) availible to use
 
