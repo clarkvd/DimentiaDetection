@@ -21,3 +21,20 @@ At this point you have all 4 models (Resnet, VGG16, Inception-V3, Alexnet) avail
 ## Running Fake Image Generation
 - For simplicity you can skip the "mild", "very mild", "moderate", and "none" sections in this part unless you want to see the progress the training loop made while generating the images.
 - All our saved progress is in the "Test model on fakes" section, so you can run through that to see our results.
+
+#Contributions:
+Models:
+- Ryan = VGG and InceptionV3
+- Sabeeh = Resnet and Alexnet
+Fake image generation:
+- Ryan = Write and run the models
+- Sabeeh = Write and test the models on AlexNet
+GradCam:
+- Ryan = Implementing GradCam code
+- Sabeeh = Implementing interface
+StyleGan3:
+- Ryan = Implementing StyleGan3 with dataset
+- Sabeeh = Implementing StyleGan3 code
+Final Report:
+- Ryan = Related Works, Experiment, Conclusion
+- Sabeeh = Introduction, Methods
