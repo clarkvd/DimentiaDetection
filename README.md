@@ -36,6 +36,7 @@ GradCam:
 
 - Ryan = Implementing GradCam code
 - Sabeeh = Implementing interface
+
 StyleGan3:
 
 - Ryan = Implementing StyleGan3 with dataset
