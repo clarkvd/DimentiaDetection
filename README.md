@@ -4,6 +4,8 @@ Link to Drive (files too big to upload to github so you can't run the code outsi
 https://drive.google.com/drive/folders/1uJmWYuDnOXFJHl1SGbIppyyMHM9K-l8j?usp=sharing
 (Note only BC accounts can open the link)
 
+The following instructions only apply to when you have all the files from the google drive link.  Without this, you would have to run every cell in the colab file, which would take quite a long time.
+
 ## Running the Models
 - Run the first 2 blocks in "ResNet" section
 - Run the first 4 blocks in "Alexnet" section
