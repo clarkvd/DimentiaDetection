@@ -26,15 +26,22 @@ At this point you have all 4 models (Resnet, VGG16, Inception-V3, Alexnet) avail
 Models:
 - Ryan = VGG and InceptionV3
 - Sabeeh = Resnet and Alexnet
+
 Fake image generation:
+
 - Ryan = Write and run the models
 - Sabeeh = Write and test the models on AlexNet
+
 GradCam:
+
 - Ryan = Implementing GradCam code
 - Sabeeh = Implementing interface
 StyleGan3:
+
 - Ryan = Implementing StyleGan3 with dataset
 - Sabeeh = Implementing StyleGan3 code
+
 Final Report:
+
 - Ryan = Related Works, Experiment, Conclusion
 - Sabeeh = Introduction, Methods
