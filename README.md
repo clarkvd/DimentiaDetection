@@ -22,7 +22,7 @@ At this point you have all 4 models (Resnet, VGG16, Inception-V3, Alexnet) avail
 - For simplicity you can skip the "mild", "very mild", "moderate", and "none" sections in this part unless you want to see the progress the training loop made while generating the images.
 - All our saved progress is in the "Test model on fakes" section, so you can run through that to see our results.
 
-#Contributions:
+# Contributions:
 Models:
 - Ryan = VGG and InceptionV3
 - Sabeeh = Resnet and Alexnet
